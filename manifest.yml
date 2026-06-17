@@ -5,6 +5,6 @@ metadata:
 spec:
   containers:
   - name: nginx
-    image: fazil846/frontend:1
+    image: fazil846/frontend:402d0b1a85174647db925488644a3415e5600c52
     ports:
     - containerPort: 80
